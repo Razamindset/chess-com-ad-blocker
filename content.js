@@ -1,4 +1,4 @@
-console.log("Ad blocker extension is running!");
+console.log("Chess.com Ad blocker extension is running!");
 
 function removeAds() {
   // Try to find and remove the leaderboard ad
